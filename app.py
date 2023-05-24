@@ -135,7 +135,7 @@ with c30:
         "File.csv",
         "Download to TXT",
     )
-=======
+
 from collections import namedtuple
 import altair as alt
 import math
